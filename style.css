@@ -1,0 +1,115 @@
+body{
+    overflow-x: hidden;
+}
+.logo{
+    position: absolute;
+    width: 58px;
+    height: 53px;
+    left: 10px;
+    top: 13px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    }
+.logo:hover{
+    width: 68px;
+    height: 62px;
+    left: 8px;
+    top: 5px;
+}
+.footer{
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+
+    background: #333232;
+    }
+.main{
+
+position: absolute;
+width: 77px;
+height: 23px;
+left: 92px;
+top: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #fc9309;
+text-decoration: none;
+transition: all 1s ease;
+}
+.main:hover{
+    color: #e65d28;
+}
+.znaki{
+    position: absolute;
+width: 272px;
+height: 23px;
+left: 217px;
+top: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+text-decoration: none;
+transition: all 0.5s ease;
+}
+.znaki:hover{
+    color: #fc4e09;
+}
+.background{
+    position: absolute;
+width: 1440px;
+height: 721px;
+left: 0px;
+top: 79px;
+z-index: -101;
+}
+.greenelipse{
+
+position: absolute;
+width: 616px;
+height: 616px;
+left: -136px;
+top: 309px;
+border-radius: 50%;
+background: #8EBF00;
+}
+.greenp{
+
+position: absolute;
+width: 351px;
+height: 224px;
+left: 160px;
+top: 86px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+}
+b{
+    color: #CE0000;
+}
+.redelipse{
+    position: absolute;
+width: 616px;
+height: 616px;
+left: 999px;
+top: -60px;
+border-radius: 50%;
+background: #BF0022;
+z-index: -100;
+}
