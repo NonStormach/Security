@@ -1,0 +1,17 @@
+.logo{
+    position: absolute;
+    width: 58px;
+    height: 53px;
+    left: 10px;
+    top: 13px;
+    cursor: pointer;
+    }
+    .footer{
+        position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+
+    background: #333232;
+    }
