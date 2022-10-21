@@ -273,7 +273,7 @@ left: calc(50% - 327px/2 - 485.5px);
     text-align: center;
     text-transform: uppercase;
 
-    color: #000000;
+    color: #ffffff;
 }
 .znak2 {
     position: absolute;
@@ -287,9 +287,9 @@ left: calc(50% - 327px/2 - 485.5px);
 width: 294px;
 height: 53.45px;
 left: calc(50% - 294px/2 + 17px);
-top: 549px;
+top: 1481px;
 cursor: pointer;
-background: linear-gradient(113.96deg, #ED1B24 1.49%, #DBBEBF 101.44%);
+background: linear-gradient(113.96deg, #0072BB 1.49%, #BF0022 101.44%);
 border-radius: 25px;
 transition: all 0.5s ease;
 }
@@ -353,6 +353,5 @@ font-size: 40px;
 line-height: 47px;
 
 /* identical to box height */
-
 color: #ED1B24;
 }
